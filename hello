@@ -1,0 +1,12 @@
+<form>
+  <label for="username">用户名:</label>
+  <input type="text" id="username" name="username"><br><br>
+  
+  <label for="password">密码:</label>
+  <input type="password" id="password" name="password"><br><br>
+  
+  <label for="email">邮箱:</label>
+  <input type="email" id="email" name="email"><br><br>
+  
+  <input type="submit" value="提交">
+</form>
